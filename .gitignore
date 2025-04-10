@@ -1,0 +1,5 @@
+                    # Ignore everything
+*
+
+# Except the directory you want to push
+!Day_3_Variables_in_Python
