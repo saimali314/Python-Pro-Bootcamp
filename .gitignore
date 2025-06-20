@@ -1,5 +1,6 @@
-                    # Ignore everything
-*
+# Ignore everything by default
+/*
 
-# Except the directory you want to push
-!Day_9_Variables_in_Python
+# But allow the specific folder and its contents
+!/Day_9_Variables_in_Python/
+!/Day_9_Variables_in_Python/**
