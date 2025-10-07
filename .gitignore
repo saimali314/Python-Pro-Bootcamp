@@ -1,6 +1,6 @@
-# Ignore everything by default
-/*
-
-# But allow the specific folder and its contents
-!/Day_11_Variables_in_Python/
-!/Day_11_Variables_in_Python/**
+## Ignore everything by default
+#/*
+#
+## But allow the specific folder and its contents
+#!/Day_11/
+#!/Day_11/**
